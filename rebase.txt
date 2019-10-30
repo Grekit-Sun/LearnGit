@@ -1,2 +1,4 @@
 master A
 提交后为B
+master B
+提交后为C
